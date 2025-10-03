@@ -1,0 +1,481 @@
+PCA components,hidden_layer_sizes,alpha,activation,solver,learning_rate,mean_accuracy
+100,"(200, 100)",0.001,tanh,adam,adaptive,0.9791666666666666
+100,"(200, 100)",0.001,tanh,adam,constant,0.9791666666666666
+150,"(100,)",0.01,tanh,adam,constant,0.9791666666666666
+150,"(100,)",0.01,tanh,adam,adaptive,0.9791666666666666
+100,"(200, 100)",0.0001,tanh,adam,adaptive,0.9791666666666666
+100,"(200, 100)",0.0001,tanh,adam,constant,0.9791666666666666
+150,"(100,)",0.001,tanh,adam,constant,0.9791666666666666
+150,"(100,)",0.001,tanh,adam,adaptive,0.9791666666666666
+150,"(100,)",0.0001,tanh,adam,adaptive,0.9791666666666666
+150,"(100,)",0.0001,tanh,adam,constant,0.9791666666666666
+100,"(50,)",0.001,tanh,adam,constant,0.9791666666666666
+100,"(50,)",0.001,tanh,adam,adaptive,0.9791666666666666
+100,"(50,)",0.01,tanh,adam,constant,0.9791666666666666
+100,"(50,)",0.01,tanh,adam,adaptive,0.9791666666666666
+100,"(50,)",0.0001,tanh,adam,adaptive,0.9791666666666666
+100,"(50,)",0.0001,tanh,adam,constant,0.9791666666666666
+100,"(200, 100)",0.01,tanh,adam,adaptive,0.9791666666666666
+100,"(200, 100)",0.01,tanh,adam,constant,0.9791666666666666
+150,"(200, 100)",0.01,tanh,adam,adaptive,0.9750000000000001
+150,"(200, 100)",0.01,tanh,adam,constant,0.9750000000000001
+50,"(50,)",0.0001,tanh,adam,adaptive,0.9750000000000001
+50,"(50,)",0.0001,tanh,adam,constant,0.9750000000000001
+50,"(50,)",0.001,tanh,adam,constant,0.9750000000000001
+50,"(50,)",0.001,tanh,adam,adaptive,0.9750000000000001
+50,"(100,)",0.001,tanh,adam,constant,0.9750000000000001
+50,"(100,)",0.001,tanh,adam,adaptive,0.9750000000000001
+50,"(50,)",0.01,tanh,adam,constant,0.9750000000000001
+50,"(50,)",0.01,tanh,adam,adaptive,0.9750000000000001
+150,"(200, 100)",0.001,tanh,adam,adaptive,0.9750000000000001
+150,"(200, 100)",0.001,tanh,adam,constant,0.9750000000000001
+50,"(100,)",0.01,tanh,adam,adaptive,0.9750000000000001
+50,"(100,)",0.01,tanh,adam,constant,0.9750000000000001
+50,"(100,)",0.0001,tanh,adam,constant,0.9750000000000001
+50,"(100,)",0.0001,tanh,adam,adaptive,0.9750000000000001
+150,"(200, 100)",0.0001,tanh,adam,adaptive,0.9750000000000001
+150,"(200, 100)",0.0001,tanh,adam,constant,0.9750000000000001
+50,"(200, 100)",0.01,tanh,adam,adaptive,0.975
+50,"(200, 100)",0.01,tanh,adam,constant,0.975
+50,"(200, 100)",0.0001,tanh,adam,adaptive,0.975
+50,"(200, 100)",0.0001,tanh,adam,constant,0.975
+50,"(200, 100)",0.001,tanh,adam,adaptive,0.975
+50,"(200, 100)",0.001,tanh,adam,constant,0.975
+100,"(100,)",0.0001,tanh,adam,constant,0.9708333333333333
+100,"(100,)",0.0001,tanh,adam,adaptive,0.9708333333333333
+150,"(50,)",0.001,tanh,adam,constant,0.9708333333333333
+150,"(50,)",0.001,tanh,adam,adaptive,0.9708333333333333
+150,"(50,)",0.01,tanh,adam,adaptive,0.9708333333333333
+150,"(50,)",0.01,tanh,adam,constant,0.9708333333333333
+150,"(100, 50)",0.001,tanh,adam,adaptive,0.9708333333333333
+150,"(100, 50)",0.001,tanh,adam,constant,0.9708333333333333
+150,"(50,)",0.0001,tanh,adam,constant,0.9708333333333333
+150,"(50,)",0.0001,tanh,adam,adaptive,0.9708333333333333
+150,"(100, 50)",0.01,tanh,adam,constant,0.9708333333333333
+150,"(100, 50)",0.01,tanh,adam,adaptive,0.9708333333333333
+150,"(100, 50)",0.0001,tanh,adam,constant,0.9708333333333333
+150,"(100, 50)",0.0001,tanh,adam,adaptive,0.9708333333333333
+100,"(100,)",0.001,tanh,adam,constant,0.9708333333333333
+100,"(100,)",0.001,tanh,adam,adaptive,0.9708333333333333
+100,"(100,)",0.01,tanh,adam,adaptive,0.9708333333333333
+100,"(100,)",0.01,tanh,adam,constant,0.9708333333333333
+50,"(100, 50)",0.0001,relu,adam,adaptive,0.9708333333333333
+50,"(100, 50)",0.0001,relu,adam,constant,0.9708333333333333
+50,"(200,)",0.01,tanh,adam,adaptive,0.9708333333333333
+50,"(200,)",0.01,tanh,adam,constant,0.9708333333333333
+50,"(200,)",0.001,tanh,adam,adaptive,0.9708333333333333
+50,"(200,)",0.001,tanh,adam,constant,0.9708333333333333
+50,"(100, 50)",0.001,tanh,adam,constant,0.9708333333333333
+50,"(100, 50)",0.001,tanh,adam,adaptive,0.9708333333333333
+50,"(100, 50)",0.0001,tanh,adam,adaptive,0.9708333333333333
+50,"(100, 50)",0.0001,tanh,adam,constant,0.9708333333333333
+50,"(100, 50)",0.01,relu,adam,adaptive,0.9708333333333333
+50,"(100, 50)",0.01,relu,adam,constant,0.9708333333333333
+50,"(100, 50)",0.01,tanh,adam,adaptive,0.9708333333333333
+50,"(100, 50)",0.01,tanh,adam,constant,0.9708333333333333
+50,"(200,)",0.0001,tanh,adam,adaptive,0.9708333333333333
+50,"(200,)",0.0001,tanh,adam,constant,0.9708333333333333
+50,"(100, 50)",0.001,relu,adam,adaptive,0.9708333333333333
+50,"(100, 50)",0.001,relu,adam,constant,0.9708333333333333
+No PCA,"(200,)",0.0001,tanh,adam,adaptive,0.9708333333333332
+No PCA,"(200,)",0.0001,tanh,adam,constant,0.9708333333333332
+No PCA,"(200,)",0.001,tanh,adam,adaptive,0.9708333333333332
+No PCA,"(200,)",0.001,tanh,adam,constant,0.9708333333333332
+150,"(100,)",0.001,relu,adam,constant,0.9666666666666668
+150,"(100,)",0.001,relu,adam,adaptive,0.9666666666666668
+150,"(100,)",0.01,relu,adam,constant,0.9666666666666668
+150,"(100,)",0.01,relu,adam,adaptive,0.9666666666666668
+150,"(100,)",0.0001,relu,adam,constant,0.9666666666666668
+150,"(100,)",0.0001,relu,adam,adaptive,0.9666666666666668
+150,"(200, 100)",0.01,relu,adam,adaptive,0.9666666666666667
+150,"(200, 100)",0.01,relu,adam,constant,0.9666666666666667
+50,"(200, 100)",0.0001,relu,adam,adaptive,0.9666666666666667
+50,"(200, 100)",0.0001,relu,adam,constant,0.9666666666666667
+50,"(200, 100)",0.001,relu,adam,adaptive,0.9666666666666667
+50,"(200, 100)",0.001,relu,adam,constant,0.9666666666666667
+50,"(200, 100)",0.01,relu,adam,adaptive,0.9666666666666667
+50,"(200, 100)",0.01,relu,adam,constant,0.9666666666666667
+100,"(200,)",0.01,tanh,adam,adaptive,0.9666666666666667
+100,"(200,)",0.01,tanh,adam,constant,0.9666666666666667
+150,"(200, 100)",0.0001,relu,adam,adaptive,0.9666666666666667
+150,"(200, 100)",0.0001,relu,adam,constant,0.9666666666666667
+150,"(200, 100)",0.001,relu,adam,constant,0.9666666666666667
+150,"(200, 100)",0.001,relu,adam,adaptive,0.9666666666666667
+100,"(200,)",0.001,tanh,adam,adaptive,0.9666666666666667
+100,"(200,)",0.001,tanh,adam,constant,0.9666666666666667
+100,"(200,)",0.0001,tanh,adam,adaptive,0.9666666666666667
+100,"(200,)",0.0001,tanh,adam,constant,0.9666666666666667
+150,"(200,)",0.0001,relu,adam,adaptive,0.9625
+150,"(200,)",0.0001,relu,adam,constant,0.9625
+150,"(200,)",0.0001,tanh,adam,adaptive,0.9625
+150,"(200,)",0.0001,tanh,adam,constant,0.9625
+150,"(200,)",0.001,tanh,adam,constant,0.9625
+150,"(200,)",0.001,tanh,adam,adaptive,0.9625
+100,"(100, 50)",0.01,tanh,adam,adaptive,0.9625
+100,"(100, 50)",0.01,tanh,adam,constant,0.9625
+100,"(100,)",0.01,relu,adam,constant,0.9625
+100,"(100,)",0.01,relu,adam,adaptive,0.9625
+100,"(100, 50)",0.0001,tanh,adam,adaptive,0.9625
+100,"(100, 50)",0.0001,tanh,adam,constant,0.9625
+100,"(100, 50)",0.001,tanh,adam,constant,0.9625
+100,"(100, 50)",0.001,tanh,adam,adaptive,0.9625
+50,"(200,)",0.0001,relu,adam,adaptive,0.9625
+50,"(200,)",0.0001,relu,adam,constant,0.9625
+50,"(200,)",0.001,relu,adam,constant,0.9625
+50,"(200,)",0.001,relu,adam,adaptive,0.9625
+50,"(200,)",0.01,relu,adam,adaptive,0.9625
+50,"(200,)",0.01,relu,adam,constant,0.9625
+100,"(100,)",0.001,relu,adam,constant,0.9625
+100,"(100,)",0.001,relu,adam,adaptive,0.9625
+100,"(100,)",0.0001,relu,adam,constant,0.9625
+100,"(100,)",0.0001,relu,adam,adaptive,0.9625
+150,"(200,)",0.01,tanh,adam,adaptive,0.9625
+150,"(200,)",0.01,tanh,adam,constant,0.9625
+150,"(200,)",0.001,relu,adam,adaptive,0.9625
+150,"(200,)",0.001,relu,adam,constant,0.9625
+150,"(200,)",0.01,relu,adam,constant,0.9625
+150,"(200,)",0.01,relu,adam,adaptive,0.9625
+100,"(200, 100)",0.0001,relu,adam,adaptive,0.9624999999999999
+100,"(200, 100)",0.0001,relu,adam,constant,0.9624999999999999
+50,"(100,)",0.01,relu,adam,adaptive,0.9624999999999999
+50,"(100,)",0.01,relu,adam,constant,0.9624999999999999
+100,"(200, 100)",0.001,relu,adam,adaptive,0.9624999999999999
+100,"(200, 100)",0.001,relu,adam,constant,0.9624999999999999
+50,"(100,)",0.0001,relu,adam,constant,0.9624999999999999
+50,"(100,)",0.0001,relu,adam,adaptive,0.9624999999999999
+100,"(200, 100)",0.01,relu,adam,constant,0.9624999999999999
+100,"(200, 100)",0.01,relu,adam,adaptive,0.9624999999999999
+50,"(100,)",0.001,relu,adam,constant,0.9624999999999999
+50,"(100,)",0.001,relu,adam,adaptive,0.9624999999999999
+100,"(200,)",0.0001,relu,adam,adaptive,0.9583333333333334
+100,"(200,)",0.0001,relu,adam,constant,0.9583333333333334
+100,"(200,)",0.001,relu,adam,constant,0.9583333333333334
+100,"(200,)",0.001,relu,adam,adaptive,0.9583333333333334
+50,"(50,)",0.01,relu,adam,constant,0.9583333333333334
+50,"(50,)",0.01,relu,adam,adaptive,0.9583333333333334
+150,"(50,)",0.0001,relu,adam,constant,0.9583333333333334
+150,"(50,)",0.0001,relu,adam,adaptive,0.9583333333333334
+No PCA,"(200,)",0.01,tanh,adam,adaptive,0.9583333333333334
+No PCA,"(200,)",0.01,tanh,adam,constant,0.9583333333333334
+150,"(50,)",0.001,relu,adam,adaptive,0.9583333333333334
+150,"(50,)",0.001,relu,adam,constant,0.9583333333333334
+150,"(200, 100)",0.01,tanh,sgd,constant,0.9583333333333334
+150,"(200, 100)",0.01,tanh,sgd,adaptive,0.9583333333333334
+150,"(200, 100)",0.0001,tanh,sgd,adaptive,0.9583333333333334
+150,"(200, 100)",0.0001,tanh,sgd,constant,0.9583333333333334
+100,"(200,)",0.01,relu,adam,adaptive,0.9583333333333334
+100,"(200,)",0.01,relu,adam,constant,0.9583333333333334
+50,"(50,)",0.0001,relu,adam,adaptive,0.9583333333333334
+50,"(50,)",0.0001,relu,adam,constant,0.9583333333333334
+150,"(50,)",0.01,relu,adam,constant,0.9583333333333334
+150,"(50,)",0.01,relu,adam,adaptive,0.9583333333333334
+150,"(200, 100)",0.001,tanh,sgd,constant,0.9583333333333334
+150,"(200, 100)",0.001,tanh,sgd,adaptive,0.9583333333333334
+50,"(50,)",0.001,relu,adam,constant,0.9583333333333334
+50,"(50,)",0.001,relu,adam,adaptive,0.9583333333333334
+100,"(100, 50)",0.01,relu,adam,adaptive,0.9541666666666666
+100,"(100, 50)",0.01,relu,adam,constant,0.9541666666666666
+No PCA,"(200, 100)",0.0001,tanh,adam,constant,0.9541666666666666
+No PCA,"(200, 100)",0.0001,tanh,adam,adaptive,0.9541666666666666
+No PCA,"(100,)",0.001,tanh,adam,adaptive,0.9541666666666666
+No PCA,"(100,)",0.001,tanh,adam,constant,0.9541666666666666
+No PCA,"(100,)",0.0001,tanh,adam,adaptive,0.9541666666666666
+No PCA,"(100,)",0.0001,tanh,adam,constant,0.9541666666666666
+No PCA,"(100,)",0.01,tanh,adam,adaptive,0.9541666666666666
+No PCA,"(100,)",0.01,tanh,adam,constant,0.9541666666666666
+No PCA,"(200,)",0.001,relu,adam,adaptive,0.9541666666666666
+No PCA,"(200,)",0.001,relu,adam,constant,0.9541666666666666
+150,"(100, 50)",0.001,relu,adam,adaptive,0.9500000000000001
+150,"(100, 50)",0.001,relu,adam,constant,0.9500000000000001
+150,"(100, 50)",0.0001,relu,adam,constant,0.9500000000000001
+150,"(100, 50)",0.0001,relu,adam,adaptive,0.9500000000000001
+150,"(100, 50)",0.01,relu,adam,adaptive,0.9500000000000001
+150,"(100, 50)",0.01,relu,adam,constant,0.9500000000000001
+No PCA,"(200, 100)",0.001,tanh,adam,constant,0.9500000000000001
+No PCA,"(200, 100)",0.001,tanh,adam,adaptive,0.9500000000000001
+100,"(50,)",0.0001,relu,adam,adaptive,0.9500000000000001
+100,"(50,)",0.0001,relu,adam,constant,0.9500000000000001
+No PCA,"(200, 100)",0.01,tanh,adam,constant,0.9500000000000001
+No PCA,"(200, 100)",0.01,tanh,adam,adaptive,0.9500000000000001
+100,"(50,)",0.001,relu,adam,constant,0.9500000000000001
+100,"(50,)",0.001,relu,adam,adaptive,0.9500000000000001
+100,"(50,)",0.01,relu,adam,constant,0.9500000000000001
+100,"(50,)",0.01,relu,adam,adaptive,0.9500000000000001
+100,"(100, 50)",0.0001,relu,adam,adaptive,0.9499999999999998
+100,"(100, 50)",0.0001,relu,adam,constant,0.9499999999999998
+100,"(100, 50)",0.001,relu,adam,adaptive,0.9499999999999998
+100,"(100, 50)",0.001,relu,adam,constant,0.9499999999999998
+No PCA,"(200, 100)",0.001,relu,adam,adaptive,0.9458333333333334
+No PCA,"(200, 100)",0.0001,relu,adam,constant,0.9458333333333334
+No PCA,"(200, 100)",0.0001,relu,adam,adaptive,0.9458333333333334
+No PCA,"(200, 100)",0.001,relu,adam,constant,0.9458333333333334
+No PCA,"(200, 100)",0.01,relu,adam,adaptive,0.9458333333333333
+No PCA,"(200, 100)",0.01,relu,adam,constant,0.9458333333333333
+No PCA,"(100, 50)",0.01,tanh,adam,constant,0.9416666666666668
+50,"(200, 100)",0.01,tanh,sgd,adaptive,0.9416666666666668
+50,"(200, 100)",0.0001,tanh,sgd,adaptive,0.9416666666666668
+No PCA,"(100, 50)",0.01,tanh,adam,adaptive,0.9416666666666668
+50,"(200, 100)",0.001,tanh,sgd,adaptive,0.9416666666666668
+50,"(200, 100)",0.0001,tanh,sgd,constant,0.9416666666666668
+50,"(200, 100)",0.01,tanh,sgd,constant,0.9416666666666668
+100,"(200,)",0.0001,tanh,sgd,adaptive,0.9416666666666668
+100,"(200,)",0.001,tanh,sgd,constant,0.9416666666666668
+100,"(200,)",0.01,tanh,sgd,adaptive,0.9416666666666668
+100,"(200,)",0.0001,tanh,sgd,constant,0.9416666666666668
+100,"(200,)",0.01,tanh,sgd,constant,0.9416666666666668
+50,"(200, 100)",0.001,tanh,sgd,constant,0.9416666666666668
+100,"(200,)",0.001,tanh,sgd,adaptive,0.9416666666666668
+No PCA,"(100, 50)",0.001,tanh,adam,adaptive,0.9375
+No PCA,"(100, 50)",0.001,tanh,adam,constant,0.9375
+No PCA,"(100, 50)",0.0001,tanh,adam,adaptive,0.9375
+No PCA,"(100, 50)",0.0001,tanh,adam,constant,0.9375
+100,"(200, 100)",0.01,tanh,sgd,constant,0.9333333333333335
+100,"(200, 100)",0.0001,tanh,sgd,adaptive,0.9333333333333335
+100,"(200, 100)",0.0001,tanh,sgd,constant,0.9333333333333335
+100,"(200, 100)",0.001,tanh,sgd,constant,0.9333333333333335
+100,"(200, 100)",0.01,tanh,sgd,adaptive,0.9333333333333335
+100,"(200, 100)",0.001,tanh,sgd,adaptive,0.9333333333333335
+150,"(200,)",0.0001,tanh,sgd,adaptive,0.9291666666666667
+50,"(200,)",0.01,tanh,sgd,constant,0.9291666666666667
+No PCA,"(200,)",0.01,relu,adam,constant,0.9291666666666667
+No PCA,"(200,)",0.01,relu,adam,adaptive,0.9291666666666667
+50,"(200,)",0.001,tanh,sgd,constant,0.9291666666666667
+50,"(200,)",0.01,tanh,sgd,adaptive,0.9291666666666667
+50,"(200,)",0.0001,tanh,sgd,constant,0.9291666666666667
+50,"(200,)",0.001,tanh,sgd,adaptive,0.9291666666666667
+150,"(200,)",0.0001,tanh,sgd,constant,0.9291666666666667
+150,"(200,)",0.001,tanh,sgd,constant,0.9291666666666667
+150,"(200,)",0.01,tanh,sgd,adaptive,0.9291666666666667
+50,"(200,)",0.0001,tanh,sgd,adaptive,0.9291666666666667
+150,"(200,)",0.001,tanh,sgd,adaptive,0.9291666666666667
+150,"(200,)",0.01,tanh,sgd,constant,0.9291666666666667
+No PCA,"(100, 50)",0.01,relu,adam,constant,0.9250000000000002
+No PCA,"(100, 50)",0.01,relu,adam,adaptive,0.9250000000000002
+50,"(200,)",0.01,relu,sgd,adaptive,0.9249999999999999
+50,"(200,)",0.0001,relu,sgd,adaptive,0.9249999999999999
+50,"(200,)",0.001,relu,sgd,adaptive,0.9249999999999999
+50,"(200,)",0.01,relu,sgd,constant,0.9249999999999999
+50,"(200,)",0.001,relu,sgd,constant,0.9249999999999999
+100,"(200,)",0.0001,relu,sgd,adaptive,0.9249999999999999
+50,"(200,)",0.0001,relu,sgd,constant,0.9249999999999999
+100,"(200,)",0.001,relu,sgd,adaptive,0.9249999999999999
+100,"(200,)",0.001,relu,sgd,constant,0.9249999999999999
+100,"(200,)",0.0001,relu,sgd,constant,0.9249999999999999
+100,"(200,)",0.01,relu,sgd,adaptive,0.9249999999999999
+100,"(200,)",0.01,relu,sgd,constant,0.9249999999999999
+No PCA,"(200,)",0.01,tanh,sgd,adaptive,0.9166666666666666
+No PCA,"(200,)",0.0001,tanh,sgd,constant,0.9166666666666666
+No PCA,"(200,)",0.0001,tanh,sgd,adaptive,0.9166666666666666
+No PCA,"(200,)",0.001,tanh,sgd,constant,0.9166666666666666
+No PCA,"(200,)",0.01,tanh,sgd,constant,0.9166666666666666
+No PCA,"(200,)",0.001,tanh,sgd,adaptive,0.9166666666666666
+No PCA,"(200, 100)",0.01,tanh,sgd,adaptive,0.9125000000000001
+No PCA,"(200, 100)",0.001,tanh,sgd,constant,0.9125000000000001
+No PCA,"(200, 100)",0.01,tanh,sgd,constant,0.9125000000000001
+No PCA,"(200, 100)",0.0001,tanh,sgd,constant,0.9125000000000001
+No PCA,"(200, 100)",0.001,tanh,sgd,adaptive,0.9125000000000001
+No PCA,"(200, 100)",0.0001,tanh,sgd,adaptive,0.9125000000000001
+150,"(200, 100)",0.0001,relu,sgd,adaptive,0.9125
+150,"(200, 100)",0.01,relu,sgd,constant,0.9125
+150,"(200, 100)",0.01,relu,sgd,adaptive,0.9125
+No PCA,"(200,)",0.0001,relu,adam,adaptive,0.9125
+150,"(200, 100)",0.001,relu,sgd,constant,0.9125
+150,"(200, 100)",0.0001,relu,sgd,constant,0.9125
+No PCA,"(200,)",0.0001,relu,adam,constant,0.9125
+150,"(200, 100)",0.001,relu,sgd,adaptive,0.9125
+No PCA,"(100, 50)",0.001,relu,adam,constant,0.9125
+No PCA,"(100, 50)",0.001,relu,adam,adaptive,0.9125
+100,"(200, 100)",0.0001,relu,sgd,constant,0.9083333333333333
+100,"(200, 100)",0.01,relu,sgd,adaptive,0.9083333333333333
+No PCA,"(100, 50)",0.0001,relu,adam,adaptive,0.9083333333333333
+100,"(200, 100)",0.01,relu,sgd,constant,0.9083333333333333
+100,"(200, 100)",0.001,relu,sgd,constant,0.9083333333333333
+100,"(200, 100)",0.001,relu,sgd,adaptive,0.9083333333333333
+No PCA,"(100, 50)",0.0001,relu,adam,constant,0.9083333333333333
+100,"(200, 100)",0.0001,relu,sgd,adaptive,0.9083333333333333
+150,"(100,)",0.0001,tanh,sgd,constant,0.9041666666666668
+150,"(100,)",0.001,tanh,sgd,constant,0.9041666666666668
+150,"(100,)",0.01,tanh,sgd,constant,0.9041666666666668
+150,"(100,)",0.01,tanh,sgd,adaptive,0.9041666666666668
+150,"(100,)",0.001,tanh,sgd,adaptive,0.9041666666666668
+150,"(100,)",0.0001,tanh,sgd,adaptive,0.9041666666666668
+No PCA,"(50,)",0.001,tanh,adam,adaptive,0.9
+No PCA,"(50,)",0.001,tanh,adam,constant,0.9
+No PCA,"(50,)",0.0001,tanh,adam,adaptive,0.8958333333333334
+50,"(200, 100)",0.001,relu,sgd,adaptive,0.8958333333333334
+50,"(200, 100)",0.0001,relu,sgd,constant,0.8958333333333334
+50,"(200, 100)",0.0001,relu,sgd,adaptive,0.8958333333333334
+No PCA,"(50,)",0.0001,tanh,adam,constant,0.8958333333333334
+50,"(200, 100)",0.01,relu,sgd,adaptive,0.8958333333333334
+50,"(200, 100)",0.01,relu,sgd,constant,0.8958333333333334
+50,"(200, 100)",0.001,relu,sgd,constant,0.8958333333333334
+No PCA,"(50,)",0.01,tanh,adam,adaptive,0.8916666666666666
+No PCA,"(50,)",0.01,tanh,adam,constant,0.8916666666666666
+100,"(100,)",0.001,tanh,sgd,constant,0.8916666666666666
+100,"(100,)",0.01,tanh,sgd,constant,0.8916666666666666
+100,"(100,)",0.001,tanh,sgd,adaptive,0.8916666666666666
+100,"(100,)",0.0001,tanh,sgd,adaptive,0.8916666666666666
+100,"(100,)",0.0001,tanh,sgd,constant,0.8916666666666666
+100,"(100,)",0.01,tanh,sgd,adaptive,0.8916666666666666
+No PCA,"(200, 100)",0.001,relu,sgd,adaptive,0.8875000000000001
+No PCA,"(100,)",0.001,tanh,sgd,constant,0.8875000000000001
+No PCA,"(100,)",0.001,tanh,sgd,adaptive,0.8875000000000001
+No PCA,"(100,)",0.0001,tanh,sgd,adaptive,0.8875000000000001
+No PCA,"(100,)",0.0001,tanh,sgd,constant,0.8875000000000001
+No PCA,"(100,)",0.01,tanh,sgd,constant,0.8875000000000001
+No PCA,"(100,)",0.01,tanh,sgd,adaptive,0.8875000000000001
+No PCA,"(200, 100)",0.001,relu,sgd,constant,0.8875000000000001
+150,"(200,)",0.001,relu,sgd,constant,0.8833333333333334
+150,"(200,)",0.01,relu,sgd,adaptive,0.8833333333333334
+150,"(200,)",0.01,relu,sgd,constant,0.8833333333333334
+150,"(200,)",0.001,relu,sgd,adaptive,0.8833333333333334
+150,"(200,)",0.0001,relu,sgd,adaptive,0.8833333333333334
+150,"(200,)",0.0001,relu,sgd,constant,0.8833333333333334
+No PCA,"(200, 100)",0.0001,relu,sgd,constant,0.8833333333333333
+No PCA,"(200, 100)",0.0001,relu,sgd,adaptive,0.8833333333333333
+No PCA,"(200,)",0.0001,relu,sgd,adaptive,0.8791666666666668
+50,"(100,)",0.001,tanh,sgd,constant,0.8791666666666668
+50,"(100,)",0.01,tanh,sgd,constant,0.8791666666666668
+No PCA,"(200,)",0.01,relu,sgd,constant,0.8791666666666668
+No PCA,"(200,)",0.01,relu,sgd,adaptive,0.8791666666666668
+50,"(100,)",0.0001,tanh,sgd,constant,0.8791666666666668
+50,"(100,)",0.0001,tanh,sgd,adaptive,0.8791666666666668
+50,"(100,)",0.01,tanh,sgd,adaptive,0.8791666666666668
+50,"(100,)",0.001,tanh,sgd,adaptive,0.8791666666666668
+No PCA,"(200,)",0.001,relu,sgd,constant,0.8791666666666668
+No PCA,"(200,)",0.001,relu,sgd,adaptive,0.8791666666666668
+No PCA,"(200,)",0.0001,relu,sgd,constant,0.8791666666666668
+No PCA,"(200, 100)",0.01,relu,sgd,adaptive,0.8791666666666668
+No PCA,"(200, 100)",0.01,relu,sgd,constant,0.8791666666666668
+No PCA,"(100,)",0.0001,relu,sgd,constant,0.8624999999999999
+No PCA,"(100,)",0.0001,relu,sgd,adaptive,0.8624999999999999
+No PCA,"(100,)",0.01,relu,sgd,adaptive,0.8583333333333334
+No PCA,"(100,)",0.01,relu,sgd,constant,0.8583333333333334
+No PCA,"(100,)",0.001,relu,sgd,constant,0.8583333333333334
+No PCA,"(100,)",0.001,relu,sgd,adaptive,0.8583333333333334
+100,"(100, 50)",0.0001,tanh,sgd,constant,0.8583333333333334
+100,"(100, 50)",0.0001,tanh,sgd,adaptive,0.8583333333333334
+100,"(100, 50)",0.01,tanh,sgd,constant,0.8583333333333334
+100,"(100, 50)",0.01,tanh,sgd,adaptive,0.8583333333333334
+100,"(100, 50)",0.001,tanh,sgd,adaptive,0.8583333333333334
+100,"(100, 50)",0.001,tanh,sgd,constant,0.8583333333333334
+50,"(100, 50)",0.0001,tanh,sgd,adaptive,0.8541666666666666
+50,"(100, 50)",0.0001,tanh,sgd,constant,0.8541666666666666
+50,"(100, 50)",0.01,tanh,sgd,constant,0.8541666666666666
+50,"(100, 50)",0.01,tanh,sgd,adaptive,0.8541666666666666
+50,"(100, 50)",0.001,tanh,sgd,constant,0.8541666666666666
+50,"(100, 50)",0.001,tanh,sgd,adaptive,0.8541666666666666
+100,"(100,)",0.001,relu,sgd,constant,0.8500000000000001
+100,"(100,)",0.0001,relu,sgd,adaptive,0.8500000000000001
+100,"(100,)",0.01,relu,sgd,adaptive,0.8500000000000001
+100,"(100,)",0.01,relu,sgd,constant,0.8500000000000001
+100,"(100,)",0.0001,relu,sgd,constant,0.8500000000000001
+100,"(100,)",0.001,relu,sgd,adaptive,0.8500000000000001
+50,"(100,)",0.001,relu,sgd,adaptive,0.85
+50,"(100,)",0.001,relu,sgd,constant,0.85
+50,"(100,)",0.0001,relu,sgd,adaptive,0.85
+50,"(100,)",0.0001,relu,sgd,constant,0.85
+50,"(100,)",0.01,relu,sgd,adaptive,0.85
+50,"(100,)",0.01,relu,sgd,constant,0.85
+150,"(100,)",0.001,relu,sgd,adaptive,0.8458333333333333
+150,"(100,)",0.001,relu,sgd,constant,0.8458333333333333
+150,"(100,)",0.0001,relu,sgd,constant,0.8458333333333333
+150,"(100,)",0.0001,relu,sgd,adaptive,0.8458333333333333
+150,"(100,)",0.01,relu,sgd,constant,0.8458333333333333
+150,"(100,)",0.01,relu,sgd,adaptive,0.8458333333333333
+No PCA,"(100, 50)",0.001,tanh,sgd,constant,0.8416666666666668
+No PCA,"(100, 50)",0.01,tanh,sgd,constant,0.8416666666666668
+No PCA,"(100, 50)",0.001,tanh,sgd,adaptive,0.8416666666666668
+No PCA,"(100, 50)",0.01,tanh,sgd,adaptive,0.8416666666666668
+No PCA,"(100, 50)",0.0001,tanh,sgd,constant,0.8416666666666668
+No PCA,"(100, 50)",0.0001,tanh,sgd,adaptive,0.8416666666666668
+150,"(100, 50)",0.001,tanh,sgd,adaptive,0.8375
+150,"(100, 50)",0.01,tanh,sgd,constant,0.8375
+150,"(100, 50)",0.01,tanh,sgd,adaptive,0.8375
+150,"(100, 50)",0.0001,tanh,sgd,adaptive,0.8375
+150,"(100, 50)",0.001,tanh,sgd,constant,0.8375
+150,"(100, 50)",0.0001,tanh,sgd,constant,0.8375
+No PCA,"(100,)",0.01,relu,adam,constant,0.8291666666666666
+No PCA,"(100,)",0.01,relu,adam,adaptive,0.8291666666666666
+No PCA,"(50,)",0.01,tanh,sgd,adaptive,0.8291666666666666
+No PCA,"(50,)",0.01,tanh,sgd,constant,0.8291666666666666
+No PCA,"(50,)",0.001,tanh,sgd,constant,0.8291666666666666
+No PCA,"(50,)",0.001,tanh,sgd,adaptive,0.8291666666666666
+No PCA,"(50,)",0.0001,tanh,sgd,adaptive,0.8291666666666666
+No PCA,"(50,)",0.0001,tanh,sgd,constant,0.8291666666666666
+150,"(100, 50)",0.0001,relu,sgd,constant,0.8250000000000001
+150,"(100, 50)",0.001,relu,sgd,adaptive,0.8250000000000001
+150,"(100, 50)",0.001,relu,sgd,constant,0.8250000000000001
+150,"(100, 50)",0.01,relu,sgd,constant,0.8250000000000001
+150,"(100, 50)",0.0001,relu,sgd,adaptive,0.8250000000000001
+150,"(100, 50)",0.01,relu,sgd,adaptive,0.8250000000000001
+100,"(100, 50)",0.0001,relu,sgd,adaptive,0.8208333333333333
+100,"(100, 50)",0.0001,relu,sgd,constant,0.8208333333333333
+100,"(100, 50)",0.001,relu,sgd,adaptive,0.8208333333333333
+100,"(100, 50)",0.001,relu,sgd,constant,0.8208333333333333
+100,"(100, 50)",0.01,relu,sgd,adaptive,0.8208333333333333
+100,"(100, 50)",0.01,relu,sgd,constant,0.8208333333333333
+No PCA,"(50,)",0.01,relu,sgd,constant,0.8166666666666668
+No PCA,"(50,)",0.01,relu,sgd,adaptive,0.8166666666666668
+No PCA,"(50,)",0.0001,relu,sgd,constant,0.8166666666666668
+No PCA,"(50,)",0.0001,relu,sgd,adaptive,0.8166666666666668
+No PCA,"(50,)",0.001,relu,sgd,adaptive,0.8166666666666668
+No PCA,"(50,)",0.001,relu,sgd,constant,0.8166666666666668
+No PCA,"(100, 50)",0.0001,relu,sgd,adaptive,0.8125
+No PCA,"(100, 50)",0.001,relu,sgd,constant,0.8125
+No PCA,"(100, 50)",0.001,relu,sgd,adaptive,0.8125
+No PCA,"(100, 50)",0.0001,relu,sgd,constant,0.8125
+150,"(50,)",0.01,tanh,sgd,constant,0.8083333333333332
+150,"(50,)",0.001,tanh,sgd,constant,0.8083333333333332
+No PCA,"(100, 50)",0.01,relu,sgd,adaptive,0.8083333333333332
+150,"(50,)",0.0001,tanh,sgd,adaptive,0.8083333333333332
+No PCA,"(100, 50)",0.01,relu,sgd,constant,0.8083333333333332
+150,"(50,)",0.0001,tanh,sgd,constant,0.8083333333333332
+150,"(50,)",0.001,tanh,sgd,adaptive,0.8083333333333332
+150,"(50,)",0.01,tanh,sgd,adaptive,0.8083333333333332
+No PCA,"(100,)",0.001,relu,adam,adaptive,0.7958333333333334
+No PCA,"(100,)",0.001,relu,adam,constant,0.7958333333333334
+50,"(100, 50)",0.001,relu,sgd,adaptive,0.7916666666666666
+50,"(100, 50)",0.0001,relu,sgd,constant,0.7916666666666666
+50,"(100, 50)",0.01,relu,sgd,adaptive,0.7916666666666666
+50,"(100, 50)",0.01,relu,sgd,constant,0.7916666666666666
+50,"(100, 50)",0.001,relu,sgd,constant,0.7916666666666666
+50,"(100, 50)",0.0001,relu,sgd,adaptive,0.7916666666666666
+100,"(50,)",0.001,tanh,sgd,constant,0.7833333333333333
+100,"(50,)",0.01,tanh,sgd,adaptive,0.7833333333333333
+100,"(50,)",0.01,tanh,sgd,constant,0.7833333333333333
+100,"(50,)",0.001,tanh,sgd,adaptive,0.7833333333333333
+100,"(50,)",0.0001,tanh,sgd,constant,0.7833333333333333
+100,"(50,)",0.0001,tanh,sgd,adaptive,0.7833333333333333
+50,"(50,)",0.001,relu,sgd,constant,0.7791666666666667
+50,"(50,)",0.01,relu,sgd,adaptive,0.7791666666666667
+50,"(50,)",0.0001,relu,sgd,constant,0.7791666666666667
+50,"(50,)",0.001,relu,sgd,adaptive,0.7791666666666667
+50,"(50,)",0.0001,relu,sgd,adaptive,0.7791666666666667
+50,"(50,)",0.01,relu,sgd,constant,0.7791666666666667
+No PCA,"(100,)",0.0001,relu,adam,adaptive,0.775
+No PCA,"(100,)",0.0001,relu,adam,constant,0.775
+150,"(50,)",0.0001,relu,sgd,adaptive,0.7625000000000001
+150,"(50,)",0.001,relu,sgd,constant,0.7625000000000001
+150,"(50,)",0.01,relu,sgd,constant,0.7625000000000001
+100,"(50,)",0.0001,relu,sgd,adaptive,0.7625000000000001
+100,"(50,)",0.0001,relu,sgd,constant,0.7625000000000001
+150,"(50,)",0.0001,relu,sgd,constant,0.7625000000000001
+150,"(50,)",0.001,relu,sgd,adaptive,0.7625000000000001
+150,"(50,)",0.01,relu,sgd,adaptive,0.7625000000000001
+100,"(50,)",0.001,relu,sgd,adaptive,0.7625000000000001
+100,"(50,)",0.001,relu,sgd,constant,0.7625000000000001
+100,"(50,)",0.01,relu,sgd,constant,0.7625000000000001
+100,"(50,)",0.01,relu,sgd,adaptive,0.7625000000000001
+50,"(50,)",0.01,tanh,sgd,adaptive,0.75
+50,"(50,)",0.01,tanh,sgd,constant,0.75
+50,"(50,)",0.0001,tanh,sgd,adaptive,0.75
+50,"(50,)",0.0001,tanh,sgd,constant,0.75
+50,"(50,)",0.001,tanh,sgd,adaptive,0.75
+50,"(50,)",0.001,tanh,sgd,constant,0.75
+No PCA,"(50,)",0.001,relu,adam,constant,0.3333333333333333
+No PCA,"(50,)",0.001,relu,adam,adaptive,0.3333333333333333
+No PCA,"(50,)",0.0001,relu,adam,adaptive,0.2916666666666667
+No PCA,"(50,)",0.0001,relu,adam,constant,0.2916666666666667
+No PCA,"(50,)",0.01,relu,adam,adaptive,0.2708333333333333
+No PCA,"(50,)",0.01,relu,adam,constant,0.2708333333333333
